@@ -1,0 +1,108 @@
+{
+  "destinations": [
+    {
+      "name": "Moon",
+      "images": {
+        "png": "./assets/destination/image-moon.png",
+        "webp": "./assets/destination/image-moon.webp"
+      },
+      "description": "With our company you will have the opportunity to see our planet like never before. You will experience a perfectly relaxing trip away.  While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites, as well as the site where the American flag was placed in 1969.",
+      "distance": "384,400 km",
+      "travel": "3 days"
+    },
+    {
+      "name": "Mars",
+      "images": {
+        "png": "./assets/destination/image-mars.png",
+        "webp": "./assets/destination/image-mars.webp"
+      },
+      "description": "With its tallest planetary mountain in our solar system, Mars is the perfect spot for extreme sports and mountain climbing lovers, So get ready for an adventure that you will never forget.",
+      "distance": "225 mil. km",
+      "travel": "9 months"
+    },
+    {
+      "name": "Europa",
+      "images": {
+        "png": "./assets/destination/image-europa.png",
+        "webp": "./assets/destination/image-europa.webp"
+      },
+      "description": "The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lover’s dream. With an icy surface, it’s perfect for  ice skating, curling, hockey, or simple relaxation while enjoying your hot chocolate in your snug wintery cabin, with a perfect view of Jupiter.",
+      "distance": "628 mil. km",
+      "travel": "3 years"
+    },
+    {
+      "name": "Titan",
+      "images": {
+        "png": "./assets/destination/image-titan.png",
+        "webp": "./assets/destination/image-titan.webp"
+      },
+      "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn. So get your warmest clothes ready, and join us!",
+      "distance": "1.6 bil. km",
+      "travel": "7 years"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Thomas Gautier Pesquet",
+      "images": {
+        "png": "./assets/crew/image-Pesquet.png",
+        "webp": "./assets/crew/image-Pesquet.webp"
+      },
+      "role": "Commander",
+      "bio": "Thomas Gautier Pesquet is a French aerospace engineer, pilot, and European Space Agency astronaut. From November 2016 to June 2017, Pesquet was part of Expedition 50 and Expedition 51 as a flight engineer.[3] Pesquet returned to space in April 2021 on board the SpaceX Crew Dragon for a second six-month stay on the ISS."
+    },
+    {
+      "name": "Nicole Victoria",
+      "images": {
+        "png": "./assets/crew/image-Nicole-Victoria.png",
+        "webp": "./assets/crew/image-Nicole-Victoria.webp"
+      },
+      "role": "Mission Specialist",
+      "bio": "Nicole Victoria Aunapu Mann is an American test pilot and NASA astronaut. She is an F/A-18 Hornet pilot, and a graduate of the US Naval Academy, Stanford University and the US Naval Test Pilot School.and she is the  first Native American woman to go into space."
+    },
+    {
+      "name": "VICTOR GLOVER",
+      "images": {
+        "png": "./assets/crew/image-victor-glover.png",
+        "webp": "./assets/crew/image-victor-glover.webp"
+      },
+      "role": "Pilot",
+      "bio": "Pilot on the first operational flight of the SpaceX Crew Dragon to the International Space Station. Glover is a commander in the U.S. Navy where he pilots an F/A-18.He was a crew member of Expedition 64, and served as a station systems flight engineer.      "
+    },
+    {
+      "name": "Anousheh Ansari",
+      "images": {
+        "png": "./assets/crew/image-anousheh-ansari.png",
+        "webp": "./assets/crew/image-anousheh-ansari.webp"
+      },
+      "role": "Flight Engineer",
+      "bio": "Anousheh Ansari is an Iranian American engineer and co-founder of Prodea Systems. Ansari was the fourth self-funded space tourist, the first self-funded woman to fly to the ISS, and the first Iranian in space."
+    }
+  ],
+  "technology": [
+    {
+      "name": "Launch vehicle",
+      "images": {
+        "portrait": "./assets/technology/image-launch-vehicle-portrait.jpg",
+        "landscape": "./assets/technology/image-launch-vehicle-landscape.jpg"
+      },
+      "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
+    },
+    {
+      "name": "Spaceport",
+      "images": {
+        "portrait": "./assets/technology/image-spaceport-portrait.jpg",
+        "landscape": "./assets/technology/image-spaceport-landscape.jpg"
+      },
+      "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
+    },
+    {
+      "name": "Space capsule",
+      "images": {
+        "portrait": "./assets/technology/image-space-capsule-portrait.jpg",
+        "landscape": "./assets/technology/image-space-capsule-landscape.jpg"
+      },
+      "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
+    }
+  ]
+}

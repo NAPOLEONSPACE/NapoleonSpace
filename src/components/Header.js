@@ -1,9 +1,10 @@
-import { NavLink } from "react-router-dom"
-import { FiMenu } from "react-icons/fi"
-import logo from "../starter-code/assets/shared/logo.svg"
-import Button from '@mui/material/Button'
-import RocketLaunchOutlinedIcon from '@mui/icons-material/RocketLaunchOutlined'
-import { withStyles } from "@material-ui/core/styles"
+import React from 'react';
+import { NavLink } from "react-router-dom";
+import { FiMenu } from "react-icons/fi";
+import logo from "../starter-code/assets/shared/logo.svg";
+import Button from '@mui/material/Button';
+import RocketLaunchOutlinedIcon from '@mui/icons-material/RocketLaunchOutlined';
+import { withStyles } from "@material-ui/core/styles";
 
 export default function Header() {
   const CustomButton = withStyles({
